@@ -17,7 +17,7 @@
    <widget class="QPushButton" name="NewTree">
     <property name="geometry">
      <rect>
-      <x>510</x>
+      <x>490</x>
       <y>290</y>
       <width>80</width>
       <height>22</height>
@@ -30,14 +30,14 @@
    <widget class="QPushButton" name="Insdel">
     <property name="geometry">
      <rect>
-      <x>490</x>
+      <x>450</x>
       <y>340</y>
-      <width>111</width>
+      <width>151</width>
       <height>22</height>
      </rect>
     </property>
     <property name="text">
-     <string>Insert And Delete</string>
+     <string>Insert, Delete, Search</string>
     </property>
    </widget>
    <widget class="QLabel" name="label">
