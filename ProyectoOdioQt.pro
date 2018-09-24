@@ -2,12 +2,12 @@
 QT += widgets
 
 HEADERS += \
-    qtbtree.h
+    GraphicTree.h
 
 SOURCES += \
-    qtbtree.cpp \
-    btree.cpp \
-    main.cpp
+    main.cpp \
+    GraphicTree.cpp \
+    MemTree.cpp
 
 FORMS += \
     insanddelui.ui \

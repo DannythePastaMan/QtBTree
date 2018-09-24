@@ -1,4 +1,4 @@
-#include "qtbtree.h"
+#include "GraphicTree.h"
 #include <QtWidgets/QApplication>
 #include <QtWidgets/QWidget>
 int main(int argc, char *argv[])
